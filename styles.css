@@ -25,6 +25,7 @@ nav li {
 nav a {
   text-decoration: none;
   color: rgb(225, 236, 162);
+  position: fixed;
 }
 
 /* Style the main content */
@@ -49,4 +50,9 @@ footer {
 }
 .shinchan {
   background-color: black;
+}
+
+.movie-section,
+h1 {
+  justify-content: center;
 }
